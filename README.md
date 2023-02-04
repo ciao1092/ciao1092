@@ -86,6 +86,7 @@ C:\Documents and Settings\ciao1092>neofetch.exe
                  "VEzjt:;;z>*`
 
 ciao1092@ciao1092-MacBook-Pro ~ % 
+
                     'c.
                  ,xNMM.
                .OMMMMo
